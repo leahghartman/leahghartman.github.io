@@ -1,4 +1,4 @@
-# The Site Configuration
+#The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -42,7 +42,7 @@ social:
     - https://github.com/leahghartman # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/leahghartman
 
 google_site_verification: # fill in to your verification string
 
