@@ -1,5 +1,5 @@
 ---
-title: Writing a Particle-In-Cell (PIC) Simulation Code
+title: Writing a Particle-In-Cell (PIC) Plasma Simulation Code
 author: Leah
 date: 2024-03-12 14:33:00 -0500
 categories: [Physics, Code]
@@ -8,20 +8,22 @@ math: true
 mermaid: true
 ---
 
-Over the past, around a year, I've been working in the field of Plasma Wakefield Acceleration. A large part of this field has a need for efficient codes which can simulate the physics behind these new accelerator systems, which are based on plasmas rather than conventional metallic RF (radio-frequency) accelerators.
+Over the past, around a year now, I've been working in the field of Plasma Wakefield Acceleration. This field relies heavily on efficient codes that can simulate the physics behind these new accelerator systems, which are based on plasmas rather than conventional metallic RF (radio-frequency) accelerators.
 
-## Basics of a PIC Code 
+This is just my journey through creating my own, small, particle-in-cell (PIC) code for simulating simple situations. I am by no means an expert, this is simply what I have learned along the way. With that, let's get started :D!
 
-Something here...
+## Why Attempting to Do Plasma Physics Via Simulation _Makes Sense_ 
+
+At first glance, a 
 
 
 
 
-## Important Theory
+## Important Theory (Physics)
 
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
+Unfortunately, there is some important math and physics theory that we need to know in order to create a PIC code (I know, I know, I just want to code as well, but we'll get to the fun part later). This isn't necessarily *hard*, and if you have any experience with physics at the undergraduate level, all of this should be understandable. Therefore, I'm going to go over it somewhat quickly.
 
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
+
 
 $$
 \begin{equation}
@@ -35,6 +37,12 @@ We can reference the equation as \eqref{eq:series}.
 When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+## Important Theory (Code)
+
+## Implementing a Yee Grid and Yee Solver
+
+## Implementing a Particle Pusher
 
 ## Sources
 
