@@ -7,4 +7,4 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research is currently on 
+My academic research is currently focused on 

@@ -3,13 +3,13 @@ permalink: /academics/
 title: "Academics"
 ---
 
-Here is the academic material covered during my undergraduate and graduate career. 
+Here is the academic material covered during my undergraduate and graduate physics careers. 
 
 _Disclaimer:_ Note that these documents will inevitably contain some mistakes -- both typos and legitimate errors. Keep in mind that these are the notes of an undergraduate (or graduate) student in the process of learning the material herself, so take what you read with a grain of salt. If you find mistakes and feel like telling me, I would be grateful and happy to hear from you, even for the most trivial of errors.
 
 ## Undergraduate Course Material
 
-A compilation of notes and exercises written during my undergraduate career at Western Kentucky University.
+A compilation of notes and exercises written during my undergraduate career as a Physics student at Western Kentucky University.
 
 
 | :----------------           | :-------: | --------: |
@@ -21,4 +21,4 @@ A compilation of notes and exercises written during my undergraduate career at W
 
 ## Graduate Course Material
 
-A compilation of notes and exercises written during my graduate career at the University of Michigan.
+A compilation of notes and exercises written during my graduate career as an Applied Physics Ph.D. student at the University of Michigan.
