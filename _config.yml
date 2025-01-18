@@ -1,0 +1,25 @@
+# Site settings
+title: Leah Hartman
+subtitle: Ph.D. Pre-Candidate @ UMich 
+email: lghart@umich.edu
+description: Your local nerd...who happens to be obsessed with physics :D
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://leahghartman.github.io/" # the base hostname & protocol for your site
+author: Leah Hartman
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/leahghartman
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: www.linkedin.com/in/leahghartman
+pinterest_url:
+slack_url:
+twitter_url:
+googlescholar_url: https://scholar.google.com/citations?user=2Ak0HH8AAAAJ&hl=en
+email_url: mailto:lghart@umich.edu
+
+# Build settings
+markdown: kramdown
