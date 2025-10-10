@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Applied Physics Ph.D. Pre-Candidate @ <a href='https://lsa.umich.edu/appliedphysics'>UMich</a>  ‖  Pluto Enthusiast
+subtitle: Applied Physics Ph.D. Pre-Candidate @ <a href='https://lsa.umich.edu/appliedphysics'>UMich</a>  ‖  Neovim Enthusiast
 
 profile:
   align: right
@@ -15,12 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 Thanks for stopping by! 👋
 
-My name is Leah Hartman, and I'm currently a Ph.D. Pre-Candidate in the Applied Physics department at the [University of Michigan](https://umich.edu/), working under [Alec Thomas](https://ners.engin.umich.edu/people/thomas-alec/). (RESEARCH STUFF HERE)
-
-I completed my B.Sc. in Physics with a minor in Mathematics at [Western Kentucky University](https://www.wku.edu/).
-
-
-
+My name is Leah Hartman, and I'm a Ph.D. Pre-Candidate in the Applied Physics department at the [University of Michigan](https://umich.edu/), working under [Alec Thomas](https://ners.engin.umich.edu/people/thomas-alec/). Our lab develops and applies numerical simulations and theoretical models to study laser-plasma interactions. I am currently working on extending the particle-in-cell code OSIRIS by implementing a new theoretical framework, photon kinetics, to simulate phenomena such as photon acceleration.
 
 I'm interested in all things plasma and accelerator physics, but also have an interest in programming, computer/server equipment, and electronics in general. 
 
